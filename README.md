@@ -2,5 +2,8 @@
 
 In this moment, im not working in another projects than Project:OptiTool
 
-![PROFILE VIEWS](https://visitor-badge.glitch.me/badge?page_id=OptiStudioXD)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=OptiStudioXD&color=brightgreen)
+
+![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=OptiStudioXD&langs_count=3&theme=radical)
+
 
