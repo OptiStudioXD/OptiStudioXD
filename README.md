@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=800&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=OptiStudioXD;Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=50&pause=1000&color=188EF7&vCenter=true&width=435&lines=OptiStudio;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 In this moment, i am not participating in a company or in a work, i am just working in my little projects, like OptiTool.
 
