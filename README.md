@@ -1,14 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=F70000&center=false&vCenter=true&width=435&lines=OptiStudio;I+am+a+Batch+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=800&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=OptiStudioXD;Nice+to+meet+you)](https://git.io/typing-svg)
 
-In this moment, im not working in a big project.
+In this moment, i am not participating in a company or in a work, i am just working in my little projects, like OptiTool.
 
-- Just working in OptiTool
-- How to reach me:
-- Mail: optistudio@hotmail.com
-
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=OptiStudioXD&color=brightgreen)
-
-# Languages
-![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=OptiStudioXD&langs_count=3&theme=radical)
+- Contacts:
+- mail optistudio@hotmail.com
 
 
+![](https://komarev.com/ghpvc/?username=OptiStudioXD&style=for-the-badge)
+
+### Browsers and IDE
+[![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+
+
+![OptiStudioXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=OptiStudioXD&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptiStudiOXD&theme=transparent)]([https://github.com/OptiStudioXD/OptiTool])
+
+### My Projects
+
+[![OptiTool](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiTool&theme=transparent)]([https://github.com/OptiStudioXD/OptiTool])
+[![OptiBooster](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiBooster&theme=transparent)]([https://github.com/OptiStudioXD/OptiBooster])
