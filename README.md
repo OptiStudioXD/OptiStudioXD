@@ -21,3 +21,4 @@ In this moment, i am not participating in a company or in a work, i am just work
 
 [![OptiTool](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiTool&theme=transparent)]([https://github.com/OptiStudioXD/OptiTool])
 [![OptiBooster](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiBooster&theme=transparent)]([https://github.com/OptiStudioXD/OptiBooster])
+[![games](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=games&theme=transparent)]([https://github.com/OptiStudioXD/games])
