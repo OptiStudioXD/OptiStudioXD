@@ -2,4 +2,5 @@
 
 In this moment, im not working in another projects than Project:OptiTool
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=OptiStudioXD&color=brightgreen)
+![PROFILE VIEWS](https://visitor-badge.glitch.me/badge?page_id=OptiStudioXD)
+
