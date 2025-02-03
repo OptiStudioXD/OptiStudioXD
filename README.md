@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=OptiStudio;I+am+a+Batch+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=F70000&center=false&vCenter=true&width=435&lines=OptiStudio;I+am+a+Batch+developer)](https://git.io/typing-svg)
 
 In this moment, im not working in a big project.
 
