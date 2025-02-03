@@ -1,6 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=OptiStudio;OptiStudioXD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=OptiStudio;Batch+developer)](https://git.io/typing-svg)
 
-In this moment, im not working in another projects than Project:OptiTool
+In this moment, im not working in a big project.
+
+- Just working in OptiTool
+  
+- How to reach me:
+- Mail: optistudio@hotmail.com
+
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=OptiStudioXD&color=brightgreen)
 
