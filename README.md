@@ -4,6 +4,7 @@ Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), my mini project
 
 - Contacts:
 - mail optistudio@hotmail.com
+- youtube [@optistudio](https://youtube.com/@optistudio)
 - website soon
 
 ![](https://komarev.com/ghpvc/?username=OptiStudioXD&style=for-the-badge)
