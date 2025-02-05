@@ -21,9 +21,10 @@ Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), my mini project
 
 ### Projects
 [![OptiTool](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiTool&theme=transparent)]([https://github.com/OptiStudioXD/OptiTool])
-[![OptiBooster](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiBooster&theme=transparent)]([https://github.com/OptiStudioXD/OptiBooster])
 [![games](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=games&theme=transparent)]([https://github.com/OptiStudioXD/games])
 [![SuqoLauncher](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=SuqoLauncher&theme=transparent)]([https://github.com/OptiStudioXD/SuqoLauncher])
+[![OptiBooster](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiBooster&theme=transparent)]([https://github.com/OptiStudioXD/OptiBooster])
+
 
 
 
