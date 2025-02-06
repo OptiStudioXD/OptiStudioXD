@@ -7,6 +7,8 @@ Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), my mini project
 - youtube [@optistudio](https://youtube.com/@optistudio)
 - tiktok [@optistudio](https://www.tiktok.com/@optistudio)
 - website https://optistudioxd.github.io (In dev...)
+
+  
 ![](https://komarev.com/ghpvc/?username=OptiStudioXD&style=for-the-badge)
 
 ### Browsers/IDE
