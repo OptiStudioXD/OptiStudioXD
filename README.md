@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=50&pause=1000&color=188EF7&vCenter=true&width=435&lines=OptiStudio;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), my mini project.
+Working in [VS Impostor V4.1.0 Lite, fanmade](https://github.com/OptiStudioXD/fnf-vsimpostorlite)
 
 - Contacts:
 - mail optistudio@hotmail.com
