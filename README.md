@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=50&pause=1000&color=188EF7&vCenter=true&width=435&lines=OptiStudio;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-PLEASE READ ME:
+**PLEASE READ ME:**
+
 Hello! To those 32 people in total who have tried my projects.
 I’ve been thinking about it, and as a developer, I plan to switch OS, from Windows to Ubuntu.
 The move of all my files will take approximately 3 days, because my slow wifi, and about a week to memorize some commands, 2 weeks to adapt to the OS, since I’ve never tried Linux in my life!
