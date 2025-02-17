@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=50&pause=1000&color=188EF7&vCenter=true&width=435&lines=OptiStudio;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-Working on nothin, time to relax.
+Working on [SuqoLauncher](https://github.com/OptiStudioXD/SuqoLauncher), my project.
 
 - Contacts:
 - mail optistudio@hotmail.com
