@@ -6,7 +6,7 @@ Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), coming soon Reb
 - mail optistudio@hotmail.com
 - youtube [@optistudio](https://youtube.com/@optistudio)
 - tiktok [@optistudio](https://www.tiktok.com/@optistudio)
-- website https://optistudioxd.github.io (In dev...)
+- website https://optistudioxd.github.io (In pause...)
 
   
 ![](https://komarev.com/ghpvc/?username=OptiStudioXD&style=for-the-badge)
