@@ -1,16 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=50&pause=1000&color=188EF7&vCenter=true&width=435&lines=OptiStudio;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-**PLEASE READ ME:**
-
-Hello! To those 32 people in total who have tried my projects.
-I’ve been thinking about it, and as a developer, I plan to switch OS, from Windows to Ubuntu.
-The move of all my files will take approximately 3 days, because my slow wifi, and about a week to memorize some commands, 2 weeks to adapt to the OS, since I’ve never tried Linux in my life!
-It will take me a whole month to release the next updates for all my projects. Also, it's possible that I might lose some work since I will be using the cloud mostly to store my projects!
-I'm moving to Ubuntu because I've decided to explore new things!
-Additionally, since I use Windows, it takes me longer with the .sh files for SuqoLauncher and OptiTool.
-With enough knowledge of Linux, I will be able to create the ideal .sh!
-I hope you understand!
-With love, OptiStudio
+Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), coming soon Big Update 4.1 !!
 
 - Contacts:
 - mail optistudio@hotmail.com
