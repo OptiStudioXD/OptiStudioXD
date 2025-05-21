@@ -5,7 +5,7 @@ Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), UPDATE 4.1 RELE
 - Contacts:
 - mail optistudio@hotmail.com
 - youtube [@optistudio](https://youtube.com/@optistudio)
-- tiktok [@optistudio](https://www.tiktok.com/@optistudio)
+- tiktok [@optistudio.xd](https://www.tiktok.com/@optistudio.xd)
 - website https://optistudioxd.github.io (In pause...)
 
   
