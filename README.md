@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=F72E2E&width=435&lines=cWOWq)](https://git.io/typing-svg)
 
-Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), UPDATE 4.1 RELEASED !
+nothing to dev...
+just working in new OptiTool - OptiTweaks
 
 - Contacts:
 - mail cwowqqq@hotmail.com
