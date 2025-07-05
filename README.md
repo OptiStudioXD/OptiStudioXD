@@ -1,15 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=50&pause=1000&color=188EF7&vCenter=true&width=435&lines=OptiStudio;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=F72E2E&width=435&lines=cWOWq)](https://git.io/typing-svg)
 
 Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), UPDATE 4.1 RELEASED !
 
 - Contacts:
-- mail optistudio@hotmail.com
-- youtube [@optistudio](https://youtube.com/@optistudio)
-- tiktok [@optistudio.xd](https://www.tiktok.com/@optistudio.xd)
-- website https://optistudioxd.github.io (In pause...)
-
+- mail cwowqqq@hotmail.com
+- youtube 
+- tiktok 
+- website (in development)
   
-![](https://komarev.com/ghpvc/?username=OptiStudioXD&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=cwowqqq&style=for-the-badge)
 
 ### Browsers/IDE
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
@@ -17,15 +16,11 @@ Working in [OptiTool](https://github.com/OptiStudioXD/OptiTool), UPDATE 4.1 RELE
 ![Notepad++](https://img.shields.io/badge/Notepad++-222222?style=for-the-badge&logo=Notepad%2B%2B&logoColor=90E59A)
 
 
-![OptiStudioXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=OptiStudioXD&show_icons=true&theme=transparent)
+![cwowq's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwowqqq&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptiStudiOXD&theme=transparent)]([https://github.com/OptiStudioXD/OptiTool])
 
 
 ### Projects
-[![OptiTool](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiTool&theme=transparent)]([https://github.com/OptiStudioXD/OptiTool])
-[![games](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=games&theme=transparent)]([https://github.com/OptiStudioXD/games])
-[![SuqoLauncher](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=SuqoLauncher&theme=transparent)]([https://github.com/OptiStudioXD/SuqoLauncher])
-[![OptiBooster](https://github-readme-stats.vercel.app/api/pin/?username=OptiStudioXD&repo=OptiBooster&theme=transparent)]([https://github.com/OptiStudioXD/OptiBooster])
 
 
 
