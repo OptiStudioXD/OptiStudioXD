@@ -18,7 +18,6 @@ just working in new OptiTool - OptiTweaks
 
 
 ![cwowq's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwowqqq&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptiStudiOXD&theme=transparent)]([https://github.com/OptiStudioXD/OptiTool])
 
 
 ### Projects
